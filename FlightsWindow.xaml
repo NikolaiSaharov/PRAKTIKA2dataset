@@ -1,0 +1,27 @@
+﻿<Window x:Class="PRAKTIKA_1._2.FlightsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Полеты" Height="450" Width="800">
+    <Grid Background="AliceBlue">
+        <DataGrid x:Name="FlightsDataGrid" Margin="0,55,0,201"/>
+        <Button Content="Back" Click="BackButton_Click" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="30" Width="86"/>
+        <Button Content="Next" Click="NextButton_Click" HorizontalAlignment="Left" Margin="101,10,0,0" VerticalAlignment="Top" Height="30" Width="86"/>
+        <TextBlock HorizontalAlignment="Left" Margin="670,10,0,0" TextWrapping="Wrap" Text="Flights" VerticalAlignment="Top" Width="120" Height="30"/>
+
+
+        <TextBox HorizontalAlignment="Left" Margin="10,254,0,0" TextWrapping="Wrap" x:Name="FlightNumberTextBox" VerticalAlignment="Top" Width="120" Height="30"/>
+        <TextBox HorizontalAlignment="Left" Margin="135,254,0,0" TextWrapping="Wrap" x:Name="DepartureAirportTextBox" VerticalAlignment="Top" Width="120" Height="30"/>
+        <TextBox HorizontalAlignment="Left" Margin="260,254,0,0" TextWrapping="Wrap" x:Name="ArrivalAirportTextBox" VerticalAlignment="Top" Width="120" Height="30"/>
+        <TextBox HorizontalAlignment="Left" Margin="380,254,0,0" TextWrapping="Wrap" x:Name="DepartureTimeTextBox" VerticalAlignment="Top" Width="120" Height="30"/>
+
+        <Button Content="Add Flight" Click="AddFlightButton_Click" HorizontalAlignment="Left" Margin="10,289,0,0" VerticalAlignment="Top" Height="30" Width="495"/>
+        <Button Content="Delete Flight" Click="DeleteFlightButton_Click" HorizontalAlignment="Left" Margin="680,388,0,0" VerticalAlignment="Top" Height="30" Width="110"/>
+        <TextBox HorizontalAlignment="Left" Margin="135,353,0,0" TextWrapping="Wrap" x:Name="FlightNumberTextBoxIzm" VerticalAlignment="Top" Width="120" Height="30"/>
+        <TextBox HorizontalAlignment="Left" Margin="380,353,0,0" TextWrapping="Wrap" x:Name="DepartureTimeTextBoxIzm" VerticalAlignment="Top" Width="120" Height="30"/>
+        <TextBox HorizontalAlignment="Left" Margin="260,353,0,0" TextWrapping="Wrap" x:Name="DepartureAirportTextBoxIzm" VerticalAlignment="Top" Width="120" Height="30"/>
+        <TextBox HorizontalAlignment="Left" Margin="10,353,0,0" TextWrapping="Wrap" x:Name="ArrivalAirportTextBoxIzm" VerticalAlignment="Top" Width="120" Height="30"/>
+        <Button Content="Update Flight" Click="UpdateFlightButton_Click" HorizontalAlignment="Left" Margin="10,388,0,0" VerticalAlignment="Top" Height="30" Width="495"/>
+        <TextBox HorizontalAlignment="Left" Margin="500,254,0,0" TextWrapping="Wrap" x:Name="ArrivalTimeTextBox" VerticalAlignment="Top" Width="120" Height="30"/>
+        <TextBox HorizontalAlignment="Left" Margin="500,353,0,0" TextWrapping="Wrap" x:Name="ArrivalTimeTextBoxIzm" VerticalAlignment="Top" Width="120" Height="30"/>
+    </Grid>
+</Window>

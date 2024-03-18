@@ -1,0 +1,27 @@
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\bin\Debug\PRAKTIKA 1.2.exe.config
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\bin\Debug\PRAKTIKA 1.2.exe
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\bin\Debug\PRAKTIKA 1.2.pdb
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\obj\Debug\PRAKTIKA 1.2.csproj.AssemblyReference.cache
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\obj\Debug\MainWindow.g.cs
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\obj\Debug\App.g.cs
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\obj\Debug\PRAKTIKA 1.2_MarkupCompile.cache
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\obj\Debug\MainWindow.baml
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\obj\Debug\PRAKTIKA 1.2.g.resources
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\obj\Debug\PRAKTIKA_1._2.Properties.Resources.resources
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\obj\Debug\PRAKTIKA 1.2.csproj.GenerateResource.cache
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\obj\Debug\PRAKTIKA 1.2.csproj.CoreCompileInputs.cache
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\obj\Debug\PRAKTIKA 1.2.exe
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\obj\Debug\PRAKTIKA 1.2.pdb
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\obj\Debug\FlightsWindow.baml
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\obj\Debug\PassengersWindow.baml
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\obj\Debug\TicketsWindow.baml
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\obj\Debug\FlightsWindow.g.cs
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\obj\Debug\PassengersWindow.g.cs
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\obj\Debug\TicketsWindow.g.cs
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\obj\Debug\PRAKTIKA 1.2_Content.g.cs
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\bin\Debug\EntityFramework.dll
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\bin\Debug\EntityFramework.xml
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Serj\source\repos\PRAKTIKA 1.2\PRAKTIKA 1.2\obj\Debug\PRAKTIKA 1.2.csproj.CopyComplete

@@ -1,0 +1,22 @@
+﻿<Window x:Class="PRAKTIKA_1._2.PassengersWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Пассажиры" Height="450" Width="800">
+    <Grid Background="AliceBlue">
+        <DataGrid x:Name="PassengersDataGrid" Margin="0,55,0,201"/>
+        <Button Content="Back" Click="BackButton_Click" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="30" Width="86"/>
+        <Button Content="Next" Click="NextButton_Click" HorizontalAlignment="Left" Margin="101,10,0,0" VerticalAlignment="Top" Height="30" Width="86"/>
+        <TextBlock HorizontalAlignment="Left" Margin="670,10,0,0" TextWrapping="Wrap" Text="Passengers" VerticalAlignment="Top" Width="120" Height="30"/>
+        <TextBox HorizontalAlignment="Left" Margin="10,254,0,0" TextWrapping="Wrap" x:Name="NameTextBox" VerticalAlignment="Top" Width="120" Height="30"/>
+        <TextBox HorizontalAlignment="Left" Margin="135,254,0,0" TextWrapping="Wrap" x:Name="SurnameTextBox" VerticalAlignment="Top" Width="120" Height="30"/>
+        <TextBox HorizontalAlignment="Left" Margin="260,254,0,0" TextWrapping="Wrap" x:Name="EmailTextBox" VerticalAlignment="Top" Width="120" Height="30"/>
+        <TextBox HorizontalAlignment="Left" Margin="385,254,0,0" TextWrapping="Wrap" x:Name="PhoneTextBox" VerticalAlignment="Top" Width="120" Height="30"/>
+        <Button Content="Add" Click="AddButton_Click" HorizontalAlignment="Left" Margin="10,289,0,0" VerticalAlignment="Top" Height="30" Width="495"/>
+        <Button Content="Delete" Click="DeleteButton_Click" HorizontalAlignment="Left" Margin="510,254,0,0" VerticalAlignment="Top" Height="65" Width="280"/>
+        <TextBox HorizontalAlignment="Left" Margin="10,353,0,0" TextWrapping="Wrap" x:Name="NameTextBoxIzm" VerticalAlignment="Top" Width="120" Height="30"/>
+        <TextBox HorizontalAlignment="Left" Margin="135,353,0,0" TextWrapping="Wrap" x:Name="SurnameTextBoxIzm" VerticalAlignment="Top" Width="120" Height="30"/>
+        <TextBox HorizontalAlignment="Left" Margin="260,353,0,0" TextWrapping="Wrap" x:Name="EmailTextBoxIzm" VerticalAlignment="Top" Width="120" Height="30"/>
+        <TextBox HorizontalAlignment="Left" Margin="385,353,0,0" TextWrapping="Wrap" x:Name="PhoneTextBoxIzm" VerticalAlignment="Top" Width="120" Height="30"/>
+        <Button Content="Update" Click="UpdateButton_Click" HorizontalAlignment="Left" Margin="10,388,0,0" VerticalAlignment="Top" Height="30" Width="495"/>
+    </Grid>
+</Window>
